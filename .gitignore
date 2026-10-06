@@ -1,0 +1,44 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Environment variables / API keys
+.env
+.env.*
+!.env.example
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+.idea/
+
+# Local databases / vector stores
+chroma_db/
+*.db
+*.sqlite
+*.sqlite3
+
+# Uploaded user files
+uploads/
+uploaded_files/
+
+# Generated files
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model/cache directories
+.cache/
+.cache_huggingface/

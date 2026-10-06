@@ -1,0 +1,45 @@
+HEALTH INFORMATION KNOWLEDGE BASE
+
+GENERAL SAFETY
+
+This knowledge base provides general educational health information.
+
+It is not a substitute for professional medical advice.
+
+Users should speak with qualified healthcare professionals for diagnosis and treatment.
+
+EMERGENCY INFORMATION
+
+Severe chest pain, severe difficulty breathing, loss of consciousness, uncontrolled bleeding, signs of stroke, severe allergic reactions, seizures, and other potentially life-threatening symptoms require immediate professional medical attention.
+
+Do not delay emergency care while waiting for an AI response.
+
+HEALTHY LIFESTYLE
+
+Healthy routines can include adequate sleep, regular physical activity appropriate for the individual, balanced nutrition, hydration, stress management, and regular healthcare visits.
+
+MEDICAL REPORTS
+
+Laboratory reference ranges vary between laboratories.
+
+A result outside a reference range does not automatically mean that a person has a disease.
+
+Medical results should be interpreted together with symptoms, medical history, medications, physical examination, and other relevant information by a healthcare professional.
+
+MEDICATION SAFETY
+
+Medication information should be discussed with a doctor or pharmacist.
+
+Users should not independently start, stop, or change prescription medications based only on AI-generated information.
+
+SYMPTOMS
+
+Symptoms can have many possible causes.
+
+An AI system can provide educational information about possible explanations but cannot reliably diagnose a medical condition from symptoms alone.
+
+PERSONAL HEALTH DATA
+
+Medical information is sensitive.
+
+A production health application should use appropriate authentication, encryption, access controls, consent management, secure storage, and data deletion mechanisms.
